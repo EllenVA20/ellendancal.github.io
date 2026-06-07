@@ -93,13 +93,13 @@ My professional portfolio showcasing services, skills, testimonials, and a downl
 | **Clients Served** | 35+ |
 | **Client Satisfaction Rate** | 95%+ |
 | **Services Offered** | 10+ |
-| **Languages** | English (Fluent), Tagalog/Filipino (Native) |
+| **Languages** | English, Tagalog/Filipino (Native) |
 
 ---
 
 ## 🎓 Education & Certifications
 
-- **Senior High School Graduate** - Philippine Education System
+- **College Graduate** - Polytechnic University of the Philippines
 - **Virtual Assistant Certification** - Online Professional Development
 - **Administrative Support & Business Communication** - Professional Skills Training
 
@@ -107,7 +107,7 @@ My professional portfolio showcasing services, skills, testimonials, and a downl
 
 ## 🌍 Languages
 
-- 🇬🇧 **English** - Fluent (Professional)
+- 🇬🇧 **English** -
 - 🇵🇭 **Tagalog/Filipino** - Native
 
 ---
